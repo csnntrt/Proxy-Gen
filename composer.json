@@ -1,0 +1,19 @@
+{
+    "name": "csnntrt/proxygen",
+    "description": "Script that generate live proxy",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Csnntrt\\Proxygen\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chael Aracosta",
+            "email": "aracostajm0946@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
